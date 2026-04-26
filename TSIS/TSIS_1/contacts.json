@@ -1,0 +1,75 @@
+[
+  {
+    "id": 5,
+    "first_name": "Khalel",
+    "email": "khalelmuslim@gmail.com",
+    "birthday": "2008-07-11",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "87750494308",
+        "type": "home"
+      },
+      {
+        "phone": "22782",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Sara",
+    "email": "sara@yahoo.com",
+    "birthday": "2000-07-01",
+    "group": "Other",
+    "phones": [
+      {
+        "phone": "70001234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "70009876543",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Bob",
+    "email": "bob@gmail.com",
+    "birthday": "1995-03-10",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "555666777",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Alice",
+    "email": "alice@mail.ru",
+    "birthday": "1985-11-20",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "987654321",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "first_name": "John",
+    "email": "john@gmail.com",
+    "birthday": "1990-05-15",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "123456789",
+        "type": "mobile"
+      }
+    ]
+  }
+]
